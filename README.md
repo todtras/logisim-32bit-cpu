@@ -3,7 +3,7 @@
 ## Overview
 A 32-bit single-cycle processor implemented in Logisim, based on lecture-provided datapath architecture.
 The processor is extended to correctly execute the given test program.
-See singl
+
 
 ## Key Specifications
 - 32-bit architecture
