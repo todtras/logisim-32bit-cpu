@@ -3,6 +3,7 @@
 ## Overview
 A 32-bit single-cycle processor implemented in Logisim, based on lecture-provided datapath architecture.
 The processor is extended to correctly execute the given test program.
+See singl
 
 ## Key Specifications
 - 32-bit architecture
@@ -31,3 +32,4 @@ The processor is extended to correctly execute the given test program.
 
 ## Files
 - `single_cycle_processor.circ`: Logisim circuit files
+- `single_cycle_processor_image.png`: Circuit Diagram
